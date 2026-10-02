@@ -1,0 +1,10 @@
+bin/
+obj/
+*.exe
+*.dll
+.vs/
+.claude/
+.antigravity/
+.codex/
+.dh/
+.gigaide/
